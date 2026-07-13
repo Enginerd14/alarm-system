@@ -2,7 +2,7 @@
 
 
 
-
+![Alarm System](screenshot.png)
 
 
 > Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~4.1 hours of work.
@@ -11,7 +11,11 @@
 
 ## What It Does
 
-Alarm System
+An alarm system using arduino uno
+Use tactile button to arm or disarm system
+Use potentiometer to adjust sensitivity of mic, CW = more sensitive, ACW= less sensitive
+When armed, if noise detected over certain level or if vibration detected, alarm will sound and will be displayed on lcd too
+Use tactile button to stop alarm
 
 
 ## How It Works
